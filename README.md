@@ -2,7 +2,7 @@
 
 ### Hardened CLI Password Manager (AES-256-GCM + Argon2id)
 
-![License](https://img.shields.io/github/license/Xyt564/cli-password-manager-encrypted?style=for-the-badge)
+![License](https://img.shields.io/github/LICENSE/Xyt564/cli-password-manager-encrypted?style=for-the-badge)
 ![Security Policy](https://img.shields.io/badge/Security-Policy-blue?style=for-the-badge\&logo=shield\&logoColor=white\&link=https://github.com/Xyt564/cli-password-manager-encrypted/blob/main/SECURITY.md)
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge\&logo=c%2B%2B)
 ![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey?style=for-the-badge)
