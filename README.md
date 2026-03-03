@@ -41,7 +41,7 @@ No background services.
 
 Interactive shell mode:
 
-![Demo](assets/demo.pmg)
+![Demo](assets/demo.png)
 
 ---
 
