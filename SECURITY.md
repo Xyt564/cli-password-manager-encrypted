@@ -10,8 +10,6 @@ This document outlines how to responsibly report vulnerabilities in **PWMGR (CLI
 
 Only the latest version on the `main` branch is currently supported with security updates.
 
-Older versions may not receive patches.
-
 ---
 
 ## 📢 Reporting a Vulnerability
@@ -24,7 +22,6 @@ Instead, please report it privately:
 
   * Go to:
     `Security` → `Report a vulnerability`
-* Or email the maintainer directly (if an email is listed in the repository)
 
 Please include:
 
