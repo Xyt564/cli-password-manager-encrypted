@@ -71,43 +71,25 @@ Simply run:
 ```bash
 make
 ```
-
-That’s it.
-
-The binary will be created as:
----
-
-If you want, I can now:
-
-* Make this look even more “elite crypto project” style
-* Add a SECURITY.md template
-* Add a professional CONTRIBUTING.md
-* Add more advanced GitHub shields
-* Add CI badge setup
-* Add ASCII banner branding
-
-Just tell me the vibe you want (minimal / enterprise / hardcore security project / hacker aesthetic).
-
-
-```bash
-./pwmgr
-```
-
-Optional install:
+# Or you could do
 
 ```bash
 sudo make install
 ```
 
----
+That’s it.
 
-## 🚀 Usage
+## Usage
+
+```bash
+./pwmgr
+```
 
 ```bash
 pwmgr <command>
 ```
 
-### Commands
+### List of commands
 
 ```
 init                  Create new vault
