@@ -71,7 +71,7 @@ Simply run:
 ```bash
 make
 ```
-# Or you could do
+### Or
 
 ```bash
 sudo make install
