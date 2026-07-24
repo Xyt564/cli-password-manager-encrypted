@@ -136,6 +136,7 @@ Optional dependency checks:
 ```bash
 pkg-config --exists libfido2 && echo "fido2 OK"
 ```
+> &
 
 ```bash
 pkg-config --exists tss2-esys && echo "tpm2-tss OK"
