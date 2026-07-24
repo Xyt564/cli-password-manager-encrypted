@@ -491,8 +491,6 @@ for the complete license text.
 
 # 🤖 Note
 
-The ASCII banners displayed by PWMGR were generated using AI.
-
-All application logic, cryptographic implementation, security features, and hardening work were written manually.
-
-AI assistance was only used for decorative terminal banners.
+> The ASCII banners displayed by PWMGR were generated using AI. 
+> All application logic, cryptographic implementation, security features, and hardening work were written manually. 
+> AI assistance was only used for decorative terminal banners. 
