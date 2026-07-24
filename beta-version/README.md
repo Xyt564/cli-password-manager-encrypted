@@ -138,6 +138,9 @@ Store the generated keyfile somewhere **off the computer**, for example:
 * SD Card
 * External SSD
 
+> Infortmation: has an script to autodetect removeable devices 
+
+
 When unlocking the vault, provide the keyfile using the `PWMGR_KEYFILE` environment variable:
 
 ```bash
