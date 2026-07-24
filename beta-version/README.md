@@ -64,7 +64,17 @@ Interactive shell mode:
 Debian / Ubuntu:
 
 ```bash
-sudo apt install libssl-dev libargon2-dev
+sudo apt install libssl-dev libargon2-dev libfido2-dev libtss2-dev
+```
+
+> Optional: Test dependencies
+
+```bash
+pkg-config --exists libfido2 && echo "fido2 OK"
+```
+
+```bash
+pkg-config --exists tss2-esys && echo "tpm2-tss OK"
 ```
 
 ---
