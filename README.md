@@ -13,6 +13,8 @@ PWMGR is designed around one principle:
 
 No cloud services. No telemetry. No background daemons.
 
+> Beta version now available with more security options, stable is recommended but beta is more secure (just need to test and audit it)
+
 ---
 
 # ✨ Features
