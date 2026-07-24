@@ -118,7 +118,7 @@ export                   Export the vault as plaintext
 shell                    Launch the interactive shell
 ```
 
-> Optional: run 'genfido2' to require a FIDO2 security key instead (hmac-secret extension, non-resident credential; needs a PWMGR_WITH_FIDO2 build) Or run 'gentpm' to require this machine's TPM instead
+> Optional: run 'genfido2' to require a FIDO2 security key instead Or run 'gentpm' to require this machine's TPM instead
 
 ---
 
