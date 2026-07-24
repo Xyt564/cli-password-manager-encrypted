@@ -39,7 +39,7 @@ No cloud services. No telemetry. No background daemons.
 Interactive shell mode:
 
 ```text
-![Demo](assets/demo.png)
+![PWMGR Demo](assets/demo.png)
 ```
 
 ---
