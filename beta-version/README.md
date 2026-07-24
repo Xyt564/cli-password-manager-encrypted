@@ -48,7 +48,7 @@ Planned features include:
 
 Interactive shell mode:
 
-![PWMGR Demo](assets/demo.png)
+![PWMGR Demo](assets/demo2.png)
 
 ---
 
